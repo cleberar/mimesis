@@ -1,12 +1,12 @@
 Mimesis 
 ================================
 
-Este projeto surgiu com uma necessidade para o projeto [http://pcblindado.com](http://pcblindado.com "PC Blindado"), no qual sou desenvolvedor, onde necessitava acessar web sites e redes sociais de forma aleatória.
+Este projeto surgiu com uma necessidade para o projeto [http://pcblindado.com](http://pcblindado.com "PC Blindado"), no qual sou desenvolvedor. Necessitava acessar web sites e redes sociais de forma aleatória, porque não automatizar isto?
 
-Memesis, no grego, significa imitador, que se faz passar por alguém. 
-Este é o propósito deste Projeto, criar um software que acesse a internet e interaja com redes sociais simulando um usuário comum.
+Memesis, de origem grega, significa imitador, que se faz passar por alguém. 
+Este é o propósito deste Projeto, criar um software que acesse a internet e interaja com redes sociais simulando comportamento de um usuário comum.
 
-Escrito em JavaScript usando o [AppJS](https://github.com/cleberar/appjs "appjs"), SDK em NodeJS executando Chromium.
+Escrito em JavaScript usando o [AppJS](https://github.com/cleberar/appjs "appjs"), SDK em NodeJS executa o Chromium.
 
 Compatível somente com Windows, pois é o unico ambiente que necessito, mas pode ser utilizado em Linux e Mac bastando alterar as libs do AppJS, que é a engine de execução do mimesis.
 
