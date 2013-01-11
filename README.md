@@ -1,27 +1,21 @@
-# mimesis
+![Mimesis](https://dl.dropbox.com/u/9715789/logo.jpg)
 
 Simple web crawler  and a little more
 
-## Getting Started
-Install the module with: `npm install mimesis`
+## Como começar
 
-```javascript
-var mimesis = require('mimesis');
-mimesis.awesome(); // "awesome"
-```
+Instale o NPM: **https://npmjs.org/doc/README.html**
 
-## Documentation
+Faça checkout: `git clone git@github.com:cleberar/mimesis.git`
+
+Execute npm install do diretorio do projeto: `npm install`
+
+## Documentação
 _(Coming soon)_
 
-## Examples
-_(Coming soon)_
-
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [grunt](https://github.com/gruntjs/grunt).
-
-## Release History
+## Release
 _(Nothing yet)_
 
-## License
+## Licença
 Copyright (c) 2013 Cleber Rodrigues  
 Licensed under the MIT license.
