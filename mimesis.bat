@@ -1,0 +1,1 @@
+.\bin\node.exe --harmony .\lib\bootstrap.js --verbose

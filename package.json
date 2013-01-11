@@ -1,0 +1,39 @@
+{
+  "name": "mimesis",
+  "description": "Simple web crawler  and a little more",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cleberar/mimesis",
+  "author": {
+    "name": "Cleber Rodrigues",
+    "email": "cleber@cleberrodrigues.com.br",
+    "url": "http://cleber.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cleberar/mimesis"
+  },
+  "bugs": {
+    "url": "https://github.com/cleberar/mimesis/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cleberar/mimesis/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/mimesis",
+  "engines": {
+    "node": "0.8"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17",
+    "appjs": "0.0.19"
+  },
+  "dependencies": {
+      "appjs": "0.0.19"
+  },
+  "keywords": []
+}
