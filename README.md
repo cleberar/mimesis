@@ -2,8 +2,19 @@
 
 ## Simples Web Crawler, mas não apenas isto ...
 
+Memesis, no grego, significa imitador, que se faz passar por alguém. 
+
+Este é o propósito deste Projeto, criar um software que navegue na internet e interaja com redes sociais simulando um usuário comum.
+Escrito em JavaScript usando o [AppJS](https://github.com/cleberar/appjs "appjs"), SDK em NodeJS executando Chromium.
+
+Inicialmente é compatível somente com Windows, pois é o unico ambiente que necessito, mas pode ser utilizado em Linux e Mac bastando alterar as libs do AppJS, que é a engine de execução do mimesis.
+Nesta primeira versão ele acessa sites aleatóriamente como um Web Crawler, mas o propósito futuro é adicionar suporte interação com redes sociais e conversas em IMs e Web Messagers.
+
+
 ### Como usar
-_(aguarde)_
+Faça download da versão atual: [clicando aqui] (https://dl.dropbox.com/u/9715789/mimesis-alpha.rar)
+
+Execute o arquivo mimesis.bat
 
 ### Report de Bug
 Ocorreu um bug? Por favor reporte em https://github.com/cleberar/mimesis/issues
