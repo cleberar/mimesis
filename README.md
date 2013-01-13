@@ -1,21 +1,36 @@
 ![Mimesis](https://dl.dropbox.com/u/9715789/logo.jpg)
 
-Simple web crawler  and a little more
+## Simples Web Crawler, mas não apenas isto ...
 
-## Como começar
+### Como usar
+_(aguarde)_
 
-Instale o NPM: **https://npmjs.org/doc/README.html**
+### Report de Bug
+Ocorreu um bug? Por favor reporte em https://github.com/cleberar/mimesis/issues
 
-Faça checkout: `git clone git@github.com:cleberar/mimesis.git`
+### Documentação
+_(aguarde)_
 
-Execute npm install do diretorio do projeto: `npm install`
+### Quer contribuir
 
-## Documentação
-_(Coming soon)_
+clone o projeto: 
+```
+git clone git@github.com:cleberar/mimesis.git`
+```
 
-## Release
-_(Nothing yet)_
+execute npm no diretorio do projeto (instalar npm - **https://npmjs.org/doc/README.html**)
+```
+$ npm install --dev
+```
 
-## Licença
+toca ficha e faça pull request com as suas alterações ;)
+
+### Author
+**Cleber Rodrigues**
+
++ http://twitter.com/cleberar
++ http://github.com/cleberar
+
+### Licença
 Copyright (c) 2013 Cleber Rodrigues  
 Licensed under the MIT license.
