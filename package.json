@@ -23,13 +23,9 @@
   ],
   "main": "lib/mimesis",
   "engines": {
-    "node": "0.8"
-  },
-  "scripts": {
-    "test": "grunt test"
+    "node": ">0.8"
   },
   "devDependencies": {
-    "grunt": "~0.3.17",
     "appjs": "0.0.19"
   },
   "dependencies": {
