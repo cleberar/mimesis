@@ -12,7 +12,7 @@ Nesta primeira versão ele acessa sites aleatóriamente como um Web Crawler, mas
 
 
 ### Como usar
-Faça download da versão atual: [clicando aqui] (https://www.dropbox.com/s/nyvrpy4bvq7wd16/mimesis.zip?dl=0)
+Faça download da versão atual: [clicando aqui] (https://www.dropbox.com/s/y28kplpl9fnuzpj/mimesis-alpha.rar?dl=0)
 
 Execute o arquivo mimesis.bat
 
